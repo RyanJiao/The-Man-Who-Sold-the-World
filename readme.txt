@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 I can use git right now.	
-The origin update function are now fully operational.
+The origin update function 	are now fully operational.
+New work stream established.
